@@ -1,6 +1,6 @@
 ## Welcome to my website!
 I plan to use this site as a sort of one-stop shop into my professional and academic life. Feel free to check out the blog and
-some projects I'm proud of! Also do not hesitate to [reach out](gahlshemy@ucsb.edu) to me at any time if you have comments on
+some projects I'm proud of! Also do not hesitate to [reach out]((mailto:gahlshemy@ucsb.edu) to me at any time if you have comments on
 the site, or anything, really. I'd love to chat! 
 
 ### Markdown
