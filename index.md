@@ -2,9 +2,9 @@
 Feel free to check out the blog and some projects I'm proud of! Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
 to me at any time if you have comments on the site, or anything, really. I'd love to chat! 
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello! My name is Gahl Shemy and I am a third year undergraduate pure mathematics major at the [University of California, Santa Barbara](https://www.ucsb.edu/), in the [College of Creative Studies](https://ccs.ucsb.edu/). 
 
 ```markdown
 Syntax highlighted code block
