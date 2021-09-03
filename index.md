@@ -4,10 +4,7 @@ to me at any time if you have comments on the site, or anything, really. I'd lov
 
 ### About Me
 
-Hello! My name is Gahl Shemy and I am a third year undergraduate pure mathematics major at the [University of California, Santa Barbara](https://www.ucsb.edu/), in the [College of Creative Studies](https://ccs.ucsb.edu/). 
-
-```markdown
-Syntax highlighted code block
+Hello! My name is Gahl Shemy and I am a third year undergraduate pure mathematics major at the [University of California, Santa Barbara](https://www.ucsb.edu/), in the [College of Creative Studies](https://ccs.ucsb.edu/). I plan to use this website to document some of my thoughts, projects, and ideas as I continue on my academic, professional, and personal journeys. 
 
 # Header 1
 ## Header 2
