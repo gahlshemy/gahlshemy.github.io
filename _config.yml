@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Gahl Shemy's Website]
+title_separator: |
 description: [self-explanatory]
 minimal_mistakes_skin: sunrise 
