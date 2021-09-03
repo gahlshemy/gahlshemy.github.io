@@ -6,5 +6,5 @@ I am currently the president of UCSB's Association for Women in Math as well as 
 
 Beyond math, I've recently developed interests in data science and programming, as well as philosophy and world history. I also greatly enjoy debate, playing soccer, going on runs, skiing, hiking, kayaking, thrifting, walking around San Francisco, and much more! 
 
-Feel free to check out the [blog](https://gahlshemy.github.io/blog) and some projects I'm proud of! Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
+Feel free to check out the [blog](https://gahlshemy.github.io/blog) and some projects I'm proud of. Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
 to me at any time if you have comments on the site, or anything, really. I'd love to chat! 
