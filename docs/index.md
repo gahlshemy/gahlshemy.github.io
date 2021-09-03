@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-Hello! My name is Gahl Shemy and I am a third year undergraduate pure mathematics major at the [University of California, Santa Barbara](https://www.ucsb.edu/), in the [College of Creative Studies](https://ccs.ucsb.edu/). 
+Hello! My name is Gahl Shemy and I am a third year undergraduate pure mathematics major at the [University of California, Santa Barbara](https://www.ucsb.edu/), in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie broadly in algebra (most recently algebraic combinatorics and statistical mechanics). 
 
 I am currently the president of UCSB's Association for Women in Math as well as co-president of UCSB's Regents Scholars Association. This year I will be working as a CLAS mathematics tutor, a position I've been looking forward to since stepping foot on UCSB's campus. Perhaps even greater than my love of math is my love of communicating and teaching mathematics, and I'm very excited that I will have the opportunity to do that this year as a CLAS tutor. 
 
