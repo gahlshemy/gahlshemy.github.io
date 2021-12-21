@@ -4,5 +4,5 @@ Hello! My name is Gahl Shemy and I am a third year undergraduate pure mathematic
 
 I am currently the president of UCSB's Association for Women in Math as well as co-president of UCSB's Regents Scholars Association. This year I will be working as a CLAS mathematics tutor, a position I've been looking forward to since stepping foot on UCSB's campus. Beyond math, I greatly enjoy debate, playing soccer, writing, going on runs, skiing, hiking, thrifting, speaking French, and walking around big cities.
 
-Feel free to check out the **[blog](https://gahlshemy.github.io/blog)** and some course notes I'm currently working on. Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
+Feel free to check out the **[blog](https://gahlshemy.github.io/blog)** and some **[course notes](https://gahlshemy.github.io/coursenotes)** I'm currently working on. Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
 to me at any time if you have comments on the site, suggestions for study, etc. I'd love to chat :-P 
