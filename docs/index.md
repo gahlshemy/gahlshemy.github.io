@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-Hello! My name is Gahl Shemy and I am a third year undergraduate pure mathematics major at the [University of California, Santa Barbara](https://www.ucsb.edu/), in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie broadly in algebra and topology (I'm still figuring out the specifics, but most recently I've gotten to explore algebraic combinatorics, Lie theory, and a bit of algebraic topology). 
+Hello! My name is Gahl Shemy and I am a rising fourth year undergraduate pure mathematics major at the [University of California, Santa Barbara](https://www.ucsb.edu/), in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie broadly in algebra and topology (I'm still figuring out the specifics, but most recently I've gotten to explore algebraic combinatorics, Lie theory, and a bit of algebraic topology). 
 
 I spent summer of 2021 at the University of Minnesota, Twin Cities, working on an [REU]([https://www.nsf.gov/crssprgm/reu/](https://www-users.cse.umn.edu/~reiner/REU/REU.html) in Algebraic Combinatorics and Representation Theory. I am spending summer of 2022 at the University of Michigan (Ann Arbor) studying modular representations of certain finite Lie groups, under the direction of Professor Charlotte Chan.   
 
