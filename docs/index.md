@@ -9,6 +9,9 @@ I am currently the president of UCSB's Association for Women in Math and last ye
 Feel free to check out the [blog](https://gahlshemy.github.io/blog) and some [course notes](https://gahlshemy.github.io/coursenotes) I'm currently working on. Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
 to me at any time if you have comments on the site, suggestions for study, etc. I'd love to chat :-P 
 
+
+
+
 *Mathematical Writings*
 * [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with Elisabeth Bullock, Aidan Kelley, Victor Reiner, Kevin Ren, Dawei Shen, Brian Sun, Amy Tao, and Zhichun Joy Zhang
 * On the Cauchy transform of complex powers of the variable with Benjamin Faktor and Michael Kuhn (submitted for publication)
