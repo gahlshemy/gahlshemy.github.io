@@ -4,7 +4,13 @@ Hello! My name is Gahl Shemy and I am a rising fourth year undergraduate pure ma
 
 I spent summer of 2021 at the [University of Minnesota, Twin Cities](https://www-users.cse.umn.edu/~reiner/REU/REU.html), working on an REU in Algebraic Combinatorics and Representation Theory. I am spending summer of 2022 at the [University of Michigan](https://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/research/research-experience-for-undergraduates--reu-.html) (Ann Arbor) studying modular representations of certain finite groups of Lie type, under the direction of Professor Charlotte Chan and Professor Karol Koziol.   
 
-I am currently the president of UCSB's Association for Women in Math and last year's co-president of UCSB's Regents Scholars Association. This past year I worked as a CLAS mathematics tutor, a position I've been looking forward to since stepping foot on UCSB's campus. Beyond math, I greatly enjoy debate, playing soccer, writing, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
+I am currently the president of UCSB's Association for Women in Math and last year's co-president of UCSB's Regents Scholars Association. I also work as a CLAS mathematics tutor, a position I've been looking forward to since stepping foot on UCSB's campus. Beyond math, I greatly enjoy debate, playing soccer, reading, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
 
 Feel free to check out the [blog](https://gahlshemy.github.io/blog) and some [course notes](https://gahlshemy.github.io/coursenotes) I'm currently working on. Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
 to me at any time if you have comments on the site, suggestions for study, etc. I'd love to chat :-P 
+
+*Mathematical Writings*
+* [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with Elisabeth Bullock, Aidan Kelley, Victor Reiner, Kevin Ren, Dawei Shen, Brian Sun, Amy Tao, and Zhichun Joy Zhang
+* On the Cauchy transform of complex powers of the variable with Benjamin Faktor and Michael Kuhn (submitted for publication)
+* Modular principal series representation of GL2 over finite rings (in progress)
+* Lattice models and puzzles for Dual Weak symmetric Grothendieck Polynomials with Elisabeth Bullock, Noah Caplinger, Ariana Chin, Nyah Davis, and Claire Frechette (in progress) 
