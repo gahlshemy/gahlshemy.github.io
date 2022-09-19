@@ -13,7 +13,7 @@ to me at any time if you have comments on the site, suggestions for study, etc. 
 
 
 *Papers* 
-* [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with Elisabeth Bullock, Aidan Kelley, Victor Reiner, Kevin Ren, Dawei Shen, Brian Sun, Amy Tao, and Zhichun Joy Zhang
-* On the Cauchy transform of complex powers of the variable with Benjamin Faktor and Michael Kuhn (submitted for publication)
-* Modular principal series representation of GL2 over finite rings (in progress)
-* Lattice models and puzzles for Dual Weak symmetric Grothendieck Polynomials with Elisabeth Bullock, Noah Caplinger, Ariana Chin, Nyah Davis, and Claire Frechette (in progress) 
+* [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with Elisabeth Bullock, Aidan Kelley, Victor Reiner, Kevin Ren, Dawei Shen, Brian Sun, Amy Tao, and Zhichun Joy Zhang (published in the Electronic Journal of Combinatorics). 
+* [On the Cauchy transform of complex powers of the variable](https://arxiv.org/abs/2209.07649) with Benjamin Faktor and Michael Kuhn (submitted for publication).
+* Modular principal series representation of GL2 over finite rings (in progress).
+* Lattice models and puzzles for Dual Weak symmetric Grothendieck Polynomials with Elisabeth Bullock, Noah Caplinger, Ariana Chin, Nyah Davis, and Claire Frechette (in progress).
