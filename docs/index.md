@@ -17,3 +17,6 @@ to me at any time if you have comments on the site, suggestions for study, etc. 
 * [On the Cauchy transform of complex powers of the variable](https://arxiv.org/abs/2209.07649) with B. Faktor and M. Kuhn (submitted for publication).
 * Modular principal series representation of GL2 over finite rings (in progress).
 * Lattice models and puzzles for Dual Weak symmetric Grothendieck Polynomials with E. Bullock, N. Caplinger, A. Chin, N. Davis, and C. Frechette (in progress).
+
+*Talks*
+* [Michigan REU Talk: Understanding the Principal Series Representation of GL_2(F_p[t]/(t^r))](https://youtu.be/iIz4V_jcfS8?t=906)
