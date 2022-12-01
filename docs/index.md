@@ -16,7 +16,7 @@ to me at any time if you have comments on the site, suggestions for study, etc. 
 * [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with E. Bullock, A. Kelley, V. Reiner, K. Ren, D. Shen, B. Sun, A. Tao, and Z. Zhang (published in the Electronic Journal of Combinatorics). 
 * [On the Cauchy transform of complex powers of the variable](https://arxiv.org/abs/2209.07649) with B. Faktor and M. Kuhn (submitted for publication).
 * [Modular principal series representation of GL2 over finite rings](https://gahlshemy.github.io/Modular_Principal_Series_Rep_of_GL2_over_Finite_Rings%20(7).pdf) (in progress).
-* Lattice models and puzzles for Dual Weak symmetric Grothendieck Polynomials with E. Bullock, N. Caplinger, A. Chin, N. Davis, and C. Frechette (in progress).
+* [Lattice models and puzzles for Dual Weak symmetric Grothendieck Polynomials](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_5__Puzzles___Ice.pdf) with E. Bullock, N. Caplinger, A. Chin, N. Davis, and C. Frechette (in progress).
 
 *Talks*
 * [Michigan REU Talk: Understanding the Principal Series Representation of GL_2(F_p[t]/(t^r))](https://youtu.be/iIz4V_jcfS8?t=906)
