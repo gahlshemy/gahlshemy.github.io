@@ -7,7 +7,7 @@ I spent summer of 2021 at the [University of Minnesota, Twin Cities](https://www
 I am currently the president of UCSB's Association for Women in Math and last year's co-president of UCSB's Regents Scholars Association. I also work as a CLAS mathematics tutor, a position I've been looking forward to since stepping foot on UCSB's campus. Beyond math, I greatly enjoy debate, playing soccer, reading, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
 
 Feel free to check out the [blog](https://gahlshemy.github.io/blog) and some [course notes](https://gahlshemy.github.io/coursenotes) I'm currently working on. Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
-to me at any time if you have suggestions for study or just want to chat :-P 
+to me at any time if you have suggestions for study or just to chat :-P 
 
 
 *Papers* 
