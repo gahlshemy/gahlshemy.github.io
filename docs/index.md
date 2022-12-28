@@ -4,8 +4,8 @@ Hello! My name is Gahl Shemy and I am a fourth year undergraduate pure mathemati
 
 I spent summer of 2021 at the [University of Minnesota, Twin Cities](https://www-users.cse.umn.edu/~reiner/REU/REU.html), working on an REU in Algebraic Combinatorics and Representation Theory. I spent summer of 2022 at the [University of Michigan](https://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/research/research-experience-for-undergraduates--reu-.html) (Ann Arbor) studying modular representations of certain finite groups of Lie type, under the direction of Professor Charlotte Chan and Professor Karol Koziol.  
 
-<img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 30%">
-<img src="https://gahlshemy.github.io/assets/images/mich_math.jpeg" alt="Fun with my Michigan friends" style="width: 30%">
+<img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 37%">
+<img src="https://gahlshemy.github.io/assets/images/mich_math.jpeg" alt="Fun with my Michigan friends" style="width: 37%">
 
 
 I am currently the president of UCSB's Association for Women in Math and last year's co-president of UCSB's Regents Scholars Association. I also work as a CLAS mathematics tutor, a position I've been looking forward to since stepping foot on UCSB's campus. Beyond math, I greatly enjoy debate, playing soccer, reading, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
