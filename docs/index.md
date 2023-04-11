@@ -7,7 +7,7 @@ I spent summer of 2021 at the [University of Minnesota, Twin Cities](https://www
 <img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 37%">
 <img src="https://gahlshemy.github.io/assets/images/mich_math.jpeg" alt="Fun with my Michigan friends" style="width: 37%">
 
-At UCSB I served as president of the Association for Women in Math for two years, and was co-president of UCSB's Regents Scholars Association for a year. I also worked part-time as a CLAS mathematics tutor before transitioning to my (current) full-time role as a mathematics instructor following my graduation in March. Beyond math, I greatly enjoy debate, playing soccer, reading, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
+At UCSB I served as president of the Association for Women in Math for two years, and was co-president of UCSB's Regents Scholars Association for a year. I also worked part-time as a CLAS mathematics tutor before transitioning to my (current) full-time role as a mathematics instructor following my graduation in March. Beyond math, I greatly enjoy playing soccer, reading, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
 
 Feel free to check out the [blog](https://gahlshemy.github.io/blog) and some [course notes](https://gahlshemy.github.io/coursenotes) I'm currently working on. Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
 to me at any time if you have suggestions for study or just to chat :-P 
