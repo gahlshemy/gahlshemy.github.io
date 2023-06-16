@@ -1,13 +1,13 @@
 ## Welcome to my website!
 
-My name is Gahl Shemy, welcome to my page! I recently obtained a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie broadly in algebra and topology-- most recently I've gotten to explore modular representation theory, Lie theory, and algebraic topology. As I start my PhD at [Michigan](https://lsa.umich.edu/math) I am especially excited to learn more about geometric representation theory, in particular as it pertains to the geometric Langlands program!
+My name is Gahl Shemy, welcome to my page! I recently obtained a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/) and will be started a PhD at Michigan](https://lsa.umich.edu/math) in the fall.  My mathematical interests lie broadly in algebra and topology-- most recently I've gotten to explore modular representation theory, Lie theory, and algebraic topology.
 
 I spent summer of 2021 at the [University of Minnesota, Twin Cities](https://www-users.cse.umn.edu/~reiner/REU/REU.html), working on an REU in Algebraic Combinatorics and Representation Theory. I spent summer of 2022 at the [University of Michigan](https://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/research/research-experience-for-undergraduates--reu-.html) (Ann Arbor) studying modular representations of certain finite groups of Lie type, under the direction of Professor Charlotte Chan and Professor Karol Koziol.  
 
 <img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 37%">
 <img src="https://gahlshemy.github.io/assets/images/mich_math.jpeg" alt="Fun with my Michigan friends" style="width: 37%">
 
-At UCSB I served as president of our Association for Women in Math for two years, and was co-president of UCSB's Regents Scholars Association for a year. I also worked part-time as a CLAS mathematics tutor before transitioning to my (current) full-time role as a mathematics instructor following my graduation in March. Beyond math, I greatly enjoy playing soccer, reading, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
+At UCSB I served as president of our Association for Women in Math for two years, and was co-president of UCSB's Regents Scholars Association for a year. I also worked part-time as a CLAS mathematics tutor before transitioning to my current full-time role as a mathematics instructor. Beyond math, I greatly enjoy playing soccer, reading, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
 
 Feel free to check out the [blog](https://gahlshemy.github.io/blog) and some [course notes](https://gahlshemy.github.io/coursenotes) I'm currently working on. Also do not hesitate to [reach out](mailto:gahlshemy@ucsb.edu) 
 to me at any time if you have suggestions for study or just to chat :-P 
