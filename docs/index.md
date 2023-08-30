@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Gahl and I'm currently a first year mathematics PhD student at [Michigan](https://lsa.umich.edu/math). Right before this I earned a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie broadly in algebra and topology-- most recently I've gotten to explore modular representation theory, Lie theory, and algebraic topology. Currently I'm excited to learn more about geometric representation theory and representation stability.
+My name is Gahl and I'm currently a first year math PhD student at [Michigan](https://lsa.umich.edu/math). Right before this I earned a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie broadly in algebra and topology-- most recently I've gotten to explore modular representation theory, Lie theory, and algebraic topology. I'm excited to learn more about geometric representation theory and representation stability.
  
 
 <img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 37%">
@@ -12,7 +12,7 @@ Feel free to check out the [blog](https://gahlshemy.github.io/blog), and do not 
 to me at any time if you have suggestions for study or just to chat :-P 
 
 *Teaching*
-UM Math 115, Fall 2023
+* UM Math 115, Fall 2023
 
 
 *Papers* 
