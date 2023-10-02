@@ -8,8 +8,7 @@ I'm Gahl, a first year math PhD student at [Michigan](https://lsa.umich.edu/math
 
 Beyond learning and doing math, I greatly enjoy _teaching_ math, playing soccer, reading, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
 
-Feel free to check out the [blog](https://gahlshemy.github.io/blog), and do not hesitate to [reach out](mailto:gshemy@umich.edu) 
-to me at any time if you have suggestions for study or just to chat :-P 
+Do not hesitate to [reach out](mailto:gshemy@umich.edu) to me at any time if you have suggestions for study or just to chat :-P 
 
 *Teaching*
 * UM Math 115, Fall 2023
