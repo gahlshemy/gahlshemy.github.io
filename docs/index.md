@@ -14,7 +14,7 @@ Do not hesitate to [reach out](mailto:gshemy@umich.edu) to me at any time if you
 * UM Math 115, Fall 2023
 
 *Expository*
-*An introduction to [vanishing theorems in Local Cohomology](https://gahlshemy.github.io/GS_Math614_Project.pdf), written as a final project for UM Math 614 (Commutative Algebra), Fall 2023.
+* An introduction to [vanishing theorems in Local Cohomology](https://gahlshemy.github.io/GS_Math614_Project.pdf), written as a final project for UM Math 614 (Commutative Algebra), Fall 2023.
 
 *Papers* 
 * [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with E. Bullock, A. Kelley, V. Reiner, K. Ren, D. Shen, B. Sun, A. Tao, and Z. Zhang (published in the Electronic Journal of Combinatorics). 
