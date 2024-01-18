@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Gahl, a first year math PhD student at the [University of Michigan](https://lsa.umich.edu/math). Right before this I earned a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie mostly in commutative algebra and representation theory, although I am also interested in topology and I'm still figuring out the specifics.
+I'm Gahl, a first year math PhD student at the [University of Michigan](https://lsa.umich.edu/math). Right before this I earned a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie mostly in commutative algebra and representation theory, although I also have interests in topology and I'm still figuring out the specifics.
  
 
 <img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 37%">
@@ -11,7 +11,7 @@ Beyond learning and doing math, I greatly enjoy _teaching_ math, playing soccer,
 Do not hesitate to [reach out](mailto:gshemy@umich.edu) to me at any time if you have suggestions for study or just to chat :-P 
 
 *Teaching*
-* UM Math 115, Fall 2023
+* UM Math 115 (Fall 2023, Winter 2024)
 
 *Expository*
 * An intro to [vanishing theorems in local cohomology](https://gahlshemy.github.io/GS_Math614_Project.pdf), written as a final project for UM Math 614 (Commutative Algebra), Fall 2023.
