@@ -6,7 +6,7 @@ I'm Gahl, a second year math PhD student at the [University of Michigan](https:/
 <img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 37%">
 <img src="https://gahlshemy.github.io/assets/images/mich_math.jpeg" alt="Fun with my Michigan friends" style="width: 37%">
 
-Beyond learning and doing math, I greatly enjoy _teaching_ math, playing soccer, reading, going on runs, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
+Beyond learning and doing math, I greatly enjoy _teaching_ math, playing soccer, reading, lifting, skiing, hiking, thrifting, speaking Hebrew and French, and walking around big cities.
 
 Do not hesitate to [reach out](mailto:gshemy@umich.edu) to me at any time if you have suggestions for study or just to chat :-P 
 
