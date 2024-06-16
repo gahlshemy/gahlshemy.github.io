@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Gahl, a second year math PhD student at the [University of Michigan](https://lsa.umich.edu/math). Right before this I earned a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie mostly in commutative algebra, representation theory, and topology, although I'm still figuring out the specifics.
+I'm Gahl, a second year math PhD student at the [University of Michigan](https://lsa.umich.edu/math). Before this I earned a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests lie mostly in commutative algebra, representation theory, and topology, although I'm still figuring out the specifics.
  
 
 <img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 37%">
