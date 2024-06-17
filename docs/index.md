@@ -24,3 +24,6 @@ Do not hesitate to [reach out](mailto:gshemy@umich.edu) to me at any time if you
 
 *Talks*
 * [Michigan REU Talk: Understanding the Principal Series Representation of GL_2(F_p[t]/(t^r))](https://youtu.be/iIz4V_jcfS8?t=906)
+* UM Reading Group in Automorphic Representations: Unitary Reps (w/ Ritwick B.) (Oct 6, 2023)
+* UM Student Commutative Algebra: Progress in Big & Small Cohen Macaulay Modules (March 20, 2024)
+* UM Student Commutative Algebra: Local Cohomology Lightning Talk (April 17, 2024)
