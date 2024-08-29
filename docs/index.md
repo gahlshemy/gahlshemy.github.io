@@ -2,7 +2,7 @@
 
 I'm Gahl, a second year math PhD student at the [University of Michigan](https://lsa.umich.edu/math). I earned a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). I'm currently learning about group (co)homology with an eye towards the high-degree rational cohomology of arithmetic groups. 
 
-I am grateful to be partially supported by a Rackham Merit Fellowship (Rackham Science Award). 
+I am grateful to be partially supported by the Rackham Merit Fellowship (Rackham Science Award). 
 
 <img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 37%">
 <img src="https://gahlshemy.github.io/assets/images/mich_math.jpeg" alt="Fun with my Michigan friends" style="width: 37%">
