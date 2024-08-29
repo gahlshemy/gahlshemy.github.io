@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Gahl, a second year math PhD student at the [University of Michigan](https://lsa.umich.edu/math). Before this I earned a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). I'm currently learning about group (co)homology with an eye towards the high-degree rational cohomology of arithmetic groups. 
+I'm Gahl, a second year math PhD student at the [University of Michigan](https://lsa.umich.edu/math). I earned a pure math B.S. from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). I'm currently learning about group (co)homology with an eye towards the high-degree rational cohomology of arithmetic groups. 
 
 For the fall of 2024 I am grateful to be supported by a Rackham Merit Fellowship (Rackham Science Award). 
 
