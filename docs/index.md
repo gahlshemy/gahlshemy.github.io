@@ -25,5 +25,6 @@ Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 
 *Talks*
 * [Michigan REU Talk: Understanding the Principal Series Representation of GL_2(F_p[t]/(t^r))](https://youtu.be/iIz4V_jcfS8?t=906)
-* UM Student Commutative Algebra: Progress in Big & Small Cohen Macaulay Modules (March 2024)
-* UM Student Commutative Algebra: Introduction to Group Cohomology (October 2024)
+* UM Student Commutative Algebra: Progress in Big & Small Cohen Macaulay Modules (Mar 2024)
+* UM Student Commutative Algebra: Introduction to Group Cohomology (Oct 2024)
+* UM Student Dynamics/ Geometry/ Topology: Poincare Duality Groups (Nov 2024)
