@@ -13,6 +13,7 @@ Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 
 *Teaching*
 * UM Math 115 (Fall 2023, Winter 2024)
+* UM Math 116 (Winter 2025)
 
 *Expository*
 * An intro to [vanishing theorems in local cohomology](https://gahlshemy.github.io/GS_Math614_Project.pdf), written as a final project for UM Math 614 (Commutative Algebra), Fall 2023.
