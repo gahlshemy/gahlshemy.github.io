@@ -19,8 +19,8 @@ Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 * An intro to [vanishing theorems in local cohomology](https://gahlshemy.github.io/GS_Math614_Project.pdf), written as a final project for UM Math 614 (Commutative Algebra), Fall 2023.
 
 *Papers* 
-* [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with E. Bullock, A. Kelley, V. Reiner, K. Ren, D. Shen, B. Sun, A. Tao, and Z. Zhang (published in the Electronic Journal of Combinatorics). 
-* [On the Cauchy transform of the complex power function](https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2023/12/2023_8_FKS.pdf) with B. Faktor and M. Kuhn (published in Ball State Mathematics Exchange).
+* [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with E. Bullock, A. Kelley, V. Reiner, K. Ren, D. Shen, B. Sun, A. Tao, and Z. Zhang (Electronic Journal of Combinatorics). 
+* [On the Cauchy transform of the complex power function](https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2023/12/2023_8_FKS.pdf) with B. Faktor and M. Kuhn (Ball State Mathematics Exchange).
 
 *Preprints*
 * [Modular principal series representation of GL2 over finite rings](https://gahlshemy.github.io/dec30modreps.pdf).
