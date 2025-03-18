@@ -16,6 +16,7 @@ Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 * UM Math 116 (Winter 2025)
 
 *Activities*
+
 I am on the executive board of Michigan's [Association for Women in Math](https://sites.google.com/umich.edu/awm/home?authuser=0), serve as a mentor for Michigan's [Directed Reading Program in Mathematics](https://sites.google.com/umich.edu/drp/home), and volunteer at [Super Saturdays](https://sites.lsa.umich.edu/math-corps/super-saturdays/)!
 
 *Expository*
