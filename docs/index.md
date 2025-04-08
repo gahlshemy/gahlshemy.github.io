@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Gahl, a second year math PhD student at the [University of Michigan](https://lsa.umich.edu/math). I earned my B.S. in math from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). I'm excited to learn more about group (co)homology and combinatorial topology. My advisor is [Jenny Wilson](https://dept.math.lsa.umich.edu/~jchw/).
+I'm Gahl, a second year math PhD student at the [University of Michigan](https://lsa.umich.edu/math). I earned my B.S. in math from [UCSB](https://www.ucsb.edu/) in the [College of Creative Studies](https://ccs.ucsb.edu/). I'm excited to learn more about group (co)homology and combinatorial topology/ commutative algebra. My advisor is [Jenny Wilson](https://dept.math.lsa.umich.edu/~jchw/).
 
 I'm grateful to be partially supported by a Rackham Merit Fellowship (Rackham Science Award). 
 
