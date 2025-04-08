@@ -35,3 +35,4 @@ I am on the executive board of Michigan's [Association for Women in Math](https:
 * UM Student Commutative Algebra: Progress in Big & Small Cohen-Macaulay Modules (Mar 2024)
 * UM Student Commutative Algebra: Introduction to Group Cohomology (Oct 2024)
 * UM Student Dynamics/ Geometry/ Topology: Poincaré Duality Groups (Nov 2024)
+* UM Student Commutative Algebra: Cohen-Macaulay Simplicial Complexes (Apr 2025)
