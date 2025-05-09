@@ -11,8 +11,6 @@ Beyond learning and doing math, I enjoy teaching math, playing soccer, reading, 
 
 Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 
-[Minicourse site](https://gahlshemy.github.io/minicourses)
-
 *Teaching*
 * UM Math 115 (Fall 2023, Winter 2024)
 * UM Math 116 (Winter 2025)
@@ -20,6 +18,8 @@ Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 *Activities*
 
 I am on the executive board of Michigan's [Association for Women in Math](https://sites.google.com/umich.edu/awm/home?authuser=0), serve as a mentor for Michigan's [Directed Reading Program in Mathematics](https://sites.google.com/umich.edu/drp/home), and volunteer at [Super Saturdays](https://sites.lsa.umich.edu/math-corps/super-saturdays/)!
+
+Sadie Lipman and I are organizing the [Michigan summer minicourses 2025](https://summer-minicourses.w3spaces-preview.com/index.html). 
 
 *Expository*
 * An intro to [vanishing theorems in local cohomology](https://gahlshemy.github.io/GS_Math614_Project.pdf), written as a final project for UM Math 614 (Commutative Algebra), Fall 2023.
