@@ -11,6 +11,8 @@ Beyond learning and doing math, I enjoy teaching math, playing soccer, reading, 
 
 Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 
+[Minicourse site](https://gahlshemy.github.io/minicourses)
+
 *Teaching*
 * UM Math 115 (Fall 2023, Winter 2024)
 * UM Math 116 (Winter 2025)
