@@ -1,0 +1,508 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Summer minicourses 2022</title>
+    <style type="text/css">
+      h2 {
+        margin-bottom: 0.5em;
+      }
+      p, ol, ul {
+        margin-top: 0;
+        margin-bottom: 0.5em;
+      }
+      tbody > tr > th {
+        text-align: left;
+      }
+      #abstractTable td:not(.speaker):not(.theAbstract) {
+        white-space: nowrap;
+      }
+      tr[id^="abstract"] {
+        display: none;
+      }
+      .lecturelist {
+        list-style-type: none;
+        counter-reset: elementcounter;
+        padding-left: 1em;
+      }
+      .lecturelist > li ul {
+        list-style: outside;
+        padding-left: 1em;
+        margin-bottom: 0em;
+      }
+      .lecturelist > li:before {
+        content: "Lecture " counter(elementcounter) ": ";
+        counter-increment: elementcounter;
+      }
+      .lecturelist > li > ul {
+        list-style-type: none;
+        padding-left: 2em;
+        text-indent: -0.75em;
+      }
+      .lecturelist > li > ul > li:before {
+        content: "– ";
+      }
+      .lecturelist > li > ul > li > ul {
+        list-style-type: disc;
+        text-indent: 0;
+      }
+      .lecturelist > li > ul > li > ul > li > ul {
+        list-style-type: circle;
+        text-indent: 0;
+      }
+      #abstractTable {
+        text-align: left;
+        width: 100%;
+        border-spacing: 0;
+        border-collapse: collapse;
+      }
+      #abstractTable th,
+      #abstractTable > tbody > tr > td:not(.theAbstract):not(:last-child) {
+        padding: 4pt 2pt 4pt 2pt;
+      }
+      #abstractTable > tbody > tr > th {
+        padding-left: 4pt;
+      }
+      #headerRow > th {
+        border: solid black;
+        border-width: 1pt 1pt 1pt 1pt;
+        text-align: center;
+        padding-left: 4pt;
+        padding-right: 4pt;
+      }
+      #abstractTable > tbody:nth-child(even) {
+        background-color: #e2e2e2;
+      }
+      #abstractTable > tbody:nth-child(odd) {
+        background-color: #ffffff;
+      }
+      #abstractTable > tbody > tr > th:first-child {
+        border: solid black;
+        border-width: 0 0 0 1pt;
+      }
+      #abstractTable > tbody > tr > td:last-child:not(.theAbstract) {
+        border: solid black;
+        border-width: 0 1pt 0 0;
+        vertical-align: middle;
+        padding: 3pt 0 0 0;
+      }
+      #abstractTable > tbody:last-child > tr:last-child > th,
+      #abstractTable > tbody:last-child > tr:last-child > td:not(.theAbstract) {
+        border: solid black;
+        border-width: 0 0 1pt 0;
+      }
+      #abstractTable > tbody:last-child > tr:last-child > th:first-child {
+        border: solid black;
+        border-width: 0 0 1pt 1pt;
+      }
+      #abstractTable > tbody:last-child > tr:last-child > td:last-child:not(.theAbstract) {
+        border: solid black;
+        border-width: 0 1pt 1pt 0;
+      }
+      .theAbstract {
+        padding: 0 4pt 0 4pt;
+        border: solid black;
+        border-width: 0 1pt 0 1pt;
+      }
+      #abstractTable > tbody:last-child > tr:last-child > td[class="theAbstract"] {
+        border: solid black;
+        border-width: 0 1pt 1pt 1pt;
+      }
+      .corresTable {
+        width: 100%;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+      }
+      .corresTable tr td:first-child {
+        width: 49%;
+        text-align: right;
+      }
+      .corresTable tr td:nth-child(even) {
+        width: 2%;
+        white-space: nowrap;
+        text-align: center;
+      }
+      .corresTable tr td:last-child {
+        width: 49%;
+        text-align: left;
+      }
+      .lectureTable {
+        padding-left: 1em;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+      }
+      .lectureTable tr td {
+        vertical-align: top;
+      }
+      #lastHeadRow th, #lastHeadRow td {
+        border-bottom: 1pt solid black;
+      }
+      #abstractTable > tbody:last-child > #lastHeadRow > th:first-child {
+        border: solid black;
+        border-width: 0 0 1pt 1pt;
+      }
+      #abstractTable > tbody:last-child > #lastHeadRow > td:last-child:not(.theAbstract) {
+        border: solid black;
+        border-width: 0 1pt 1pt 0;
+      }
+    </style>
+</head>
+
+
+
+
+
+<body><p><b>Summer minicourses 2022</b></p>
+<p>The summer minicourses are a chance for Michigan graduate students to
+ teach each other interesting math in a friendly, informal setting. 
+</p><p>Courses will meet daily for a week, usually in the afternoon. Most courses will take place in-person, across two rooms: <b>East Hall 2058 on Mondays, Wednesdays, and Fridays, and East Hall 4088 on Tuesdays and Thursdays.</b></p> 
+<p>A few courses will instead be online. I'll email the Zoom meeting IDs to UM math graduate students. <a href="mailto:willdana@umich.edu">Email me</a> if you're not on that list but would like to participate!</p>
+<p>The line-up this year appears below. Check back for updated information and abstracts as the courses draw closer! All times are in EST.</p>
+<p>If you're giving one of the minicourses and you'd like to include notes, slides, or any other information, just send them to me and I'll add them!</p>
+<br>
+<table id="abstractTable">
+<thead>
+<tr id="headerRow">
+<th id="topicHeader">Topic</th>
+<th>Speaker</th>
+<th>Dates</th>
+<th>Time</th>
+<th>Modality & Location</th>
+<th>Abstract</th>
+<th id="notesHeader">Notes</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<th>
+A quick tour towards local Langlands correspondence
+</th>
+<td class="speaker">
+Guanjie Huang
+</td>
+<td>June 6 - June 10</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2:30</td>
+<td>Zoom (link sent through email)</td>
+<td style="text-align: center;"><button id="toggleAbstract1">Show</button></td>
+<td style="text-align: center;"><a href="minicourses2022_files/mini-LLC.pdf"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a></td>
+<td>  </td>
+</tr>
+<tr id="abstract1" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em> Local Langlands correspondence (LLC) is a conjectural parametrization of complex representations of reductive groups over local fields, by Langlands parameters, which are analogies of Galois representations. In these talks I will give the basic definition of these objects, explain the expected properties of LLC, and work explicitly with the case of GL2. If time permits, I will also introduce some recent progress in LLC and the technique used in the proof.
+
+Familiarity with basic Lie theory and algebraic number theory will be helpful.
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+Curves on surfaces
+</th>
+<td class="speaker">
+Shend Zhjeqi
+</td>
+<td>June 13 - June 17</td>
+<!-- <td>(M–F)</td> -->
+<td>11 - 12:30</td>
+<td>Zoom (link sent through email)</td>
+<td style="text-align: center;"><button id="toggleAbstract2">Show</button></td>
+<td style="text-align: center;"><a href="curvesonsurfacesnotes/index.html"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a></td>
+<td>  </td>
+</tr>
+<tr id="abstract2" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em> The concept of moduli is to analyze families of objects with some fixed invariants/properties. In particular, one of the problems is the construction of the moduli space itself. In this minicourse we will construct the moduli of line bundles on a surface (under the right algebro-geometric adjectives), which is called the Picard scheme. In the course of doing so, we will also construct the moduli of curves (divisors) on a surface. Using the same arguments one can in general show the existence of the moduli of sheaves of ideals/ moduli of subvarieties known as the Hilbert schemes, and the same construction of the Picard scheme works in any dimension. Also, we will make some remarks on the smoothness of those schemes. A first course in algebraic geometry is helpful (basics of schemes and cohomology). We will follow Mumford's book "Lectures on Curves on an Algebraic Surface".
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+Grothendieck duality
+</th>
+<td class="speaker">
+Andy Jiang
+</td>
+<td>June 20 - June 24</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2</td>
+<td>East Hall 2058 (MWF) / 4088 (TTh)</td>
+<td style="text-align: center;"><button id="toggleAbstract3">Show</button></td>
+<td style="text-align: center;"><!--<a href="http://www-personal.umich.edu/~willdana/RingelHallSlides.html"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a>--></td>
+<td>  </td>
+</tr>
+<tr id="abstract3" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em> I will give an introduction to Serre duality and Grothendieck duality of coherent sheaves from a category theoretic point of view, following some recent advances. Prerequisites are basic algebraic geometry and category theory, though I will also recall the relevant categorical inputs to the theory.
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+\ell-adic cohomology
+</th>
+<td class="speaker">
+Zheng Yang
+</td>
+<td>June 27 - July 1</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2:30</td>
+<td>East Hall 2058 (MWF) / 4088 (TTh) and Zoom (link sent through email)</td>
+<td style="text-align: center;"><button id="toggleAbstract4">Show</button></td>
+<td style="text-align: center;"><a href="ell_adic_cohomology_extended_abstract2.pdf"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a></td>
+<td>  </td>
+</tr>
+<tr id="abstract4" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em> Let X be a smooth projective variety over F_q (for q a prime power), so X is globally cut out by a finite set of homogeneous polynomials with coefficients in F_q. One important arithmetic question is to determine how many simultaneous solutions exist in F_{q^n} for each n. One can put this data together into a zeta function Z_X(t) \in Q[[t]] whose logarithmic derivative is precisely the 'naive' generating function for N_n. Information about the zeros and poles of Z_X(t) can yield information about the growth rate of its logarithmic derivative in a precise way, and vastly generalizing this, Weil conjectured very special structural properties for Z_X(t) informed by certain computations he worked out for curves. <br><br>
+
+Moreover, Weil noted that if you could define a cohomology theory mimicking certain natural topological properties, then his conjectures (minus the Riemann hypothesis) would more or less follow formally. Such a cohomology theory was realized by Grothendieck and Artin in the 1960s in the form of \ell-adic cohomology, which is loosely speaking a 'repackaging' of etale cohomology. We will introduce and develop the theory of etale cohomology and apply it to the study of \ell-adic cohomology, focusing on certain key properties of etale cohomology most relevant to proving the Weil conjectures. We will mostly follow the exposition in Milne's "Lectures on Etale Cohomology," among other references. <br><br>
+
+[For a more detailed description of the course, click the "Notes" link to the right.]
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+D-modules and representation theory
+</th>
+<td class="speaker">
+<a href="http://www-personal.umich.edu/~bdirks/index.html">Brad Dirks</a>
+</td>
+<td>July 4 - July 8</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2:30</td>
+<td>Zoom (link sent through email)</td>	
+<td style="text-align: center;"><button id="toggleAbstract5">Show</button></td>
+<td style="text-align: center;"><!--<a href="http://www-personal.umich.edu/~willdana/RingelHallSlides.html"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a>--></td>
+<td>  </td>
+</tr>
+<tr id="abstract5" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em> The representation theory of semisimple Lie algebras over the complex numbers has many success stories: all finite dimensional representations decompose into irreducibles (which we can classify), we can classify all simple Lie algebras, there are well-known character formulas for a large class of representations. This theory is ubiquitous in mathematics, it has interactions with algebraic geometry, number theory, analysis, combinatorics. <br><br>
+
+The theory of D-modules on smooth complex algebraic varieties has proven to be quite powerful. There is the famous Riemann-Hilbert correspondence which relates certain D-modules to perverse sheaves. In the study of singularities, the Bernstein-Sato polynomial is an important D-module theoretic invariant of a hypersurface. In Hodge theory, the theory of mixed Hodge modules uses D-modules to allow for "singular" vector bundles with connection, generalizing variations of Hodge structure. <br><br>
+
+In this minicourse, the plan is to give quick introductions to the two topics above, so that another application of the theory of D-modules can be introduced. This is the theorem of Beilinson-Bernstein localization, which allows one to translate representations of a Lie algebra into D-modules on the flag variety. Basic algebraic geometry (for example, (quasi-)coherent sheaves on algebraic varieties and functors between these categories) will be a useful prerequisite.
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+Crystalline cohomology
+</th>
+<td class="speaker">
+Gleb Terentiuk
+</td>
+<td>July 11 - July 15</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2:30</td>
+<td>East Hall 2058 (MWF) / 4088 (TTh)</td>
+<td style="text-align: center;"><button id="toggleAbstract6">Show</button></td>
+<td style="text-align: center;"><!--<a href="http://www-personal.umich.edu/~willdana/RingelHallSlides.html"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a>--></td>
+<td>  </td>
+</tr>
+<tr id="abstract6" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em> Roughly speaking, the theory of crystalline cohomology provides a lift of the de Rham cohomology of a variety over a field of positive characteristic to characteristic 0. We will discuss it as well as its relation to etale cohomology, de Rham-Witt complex, and briefly how it fits together into a big picture of prismatic cohomology.
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+Thermodynamic formalism
+</th>
+<td class="speaker">
+Yuping Ruan
+</td>
+<td>July 18 - July 22</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2:30</td>
+<td>East Hall 2058 (MWF) / 4088 (TTh)</td>
+<td style="text-align: center;"><button id="toggleAbstract7">Show</button></td>
+<td style="text-align: center;"><!--<a href="http://www-personal.umich.edu/~willdana/RingelHallSlides.html"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a>--></td>
+<td>  </td>
+</tr>
+<tr id="abstract7" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em> Thermodynamic formalism has been developed since G. W. Gibbs to describe the properties of certain physical systems. The underlying mathematical structure is of great interest to a number of areas, e.g. the study of Anosov diffeomorphisms and flows in differential dynamical systems. In this mini-course we will give a quick introduction to thermodynamic formalism for symbolic dynamical systems, which consists of the following two parts:
+
+<ol>
+   
+    <li>The general theory of Gibbs states and equilibrium states. Gibbs states (in the sense of Ruelle) are measures having certain prescribed conditional measures. They can be defined on spaces without dynamics and are related to thermodynamic limits having explicit constructions. Equilibrium states, on the other hand, rely on dynamics and are defined as invariant measures maximizing the topological pressure functional. We will explain why these measures have very close connections and are equal in certain cases.</li>
+   
+    <li>Ruelle's Perron-Frobenius theorem for subshifts of finite type, which leads to further statistical properties (e.g. exponential mixing, CLT).</li></ol>
+	
+	If time permits, we will also mention Markov partitions for Anosov diffeomorphisms as an application. Basic ergodic theory (e.g. what is mixing) will be a useful prerequisite, though we will also recall relevant definitions whenever needed. <br><br>
+   
+    References: <ul>
+	<li>D. Ruelle,  ''Thermodynamic formalism''</li> 
+	<li>R. Bowen, ''Equilibrium states and the ergodic theory of Anosov diffeomorphisms''</li> 
+	<li>O. Sarig, ''Thermodynamic formalism for countable Markov shifts''</li>
+	</ul>
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+<!-- TBD -->
+Trace formulas and Ruelle-Pollicott resonances (Ruelle spectrum) in hyperbolic dynamics	
+</th>
+<td class="speaker">
+<a href="https://sites.google.com/view/shchetka">Katia Shchetka</a>
+</td>
+<td>July 25 - July 29</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2:30</td>
+<td>East Hall 2866 (MWF) / 4088 (TTh)</td>
+<td style="text-align: center;"><button id="toggleAbstract8">Show</button></td>
+<td style="text-align: center;"><a href="resonances_mini-course.pdf"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a></td>
+<td>  </td>
+</tr>
+<tr id="abstract8" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em> We will develop functional and spectral approach to hyperbolic dynamics. We will study Ruelle-Pollicott resonances (Ruelle spectrum), trace formulas, dynamical zeta functions, and anisotropic Sobolev spaces. Finally, we will present some applications, e.g. mixing properties and counting periodic orbits. If time permits we will discuss semiclassical (microlocal) analysis of geodesic flow on a constant negative curvature surface.<br><br>
+
+No prerequisites needed. We will define and compute everything in very concrete examples.
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+Introduction to motivic homotopy theory
+</th>
+<td class="speaker">
+<a href="https://sites.google.com/umich.edu/jackcarlisle">Jack Carlisle</a>
+</td>
+<td>August 1 - August 5</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2:30</td>
+<td>Zoom (link sent through email)</td>
+<td style="text-align: center;"><button id="toggleAbstract9">Show</button></td>
+<td style="text-align: center;"><!--<a href="http://www-personal.umich.edu/~willdana/RingelHallSlides.html"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a>--></td>
+<td>  </td>
+</tr>
+<tr id="abstract9" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em> This mini-course will introduce participants to the basic definitions and constructions of motivic homotopy theory. We will pay special attention to complex and real motivic homotopy theory, which are intimately related to classical and C_2-equivariant stable homotopy theory. Basic knowledge of algebraic topology and algebraic geometry will be helpful, and all are encouraged to participate.
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+Branched covers of the sphere and plane
+</th>
+<td class="speaker">
+<a href="http://www-personal.umich.edu/~malavim/index.html">Malavika Mukundan</a>
+</td>
+<td>August 8 - August 12</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2:30</td>
+<td>East Hall 2866 (MWF) / 4088 (TTh)</td>
+<td style="text-align: center;"><button id="toggleAbstract10">Show</button></td>
+<td style="text-align: center;"><a href="http://www-personal.umich.edu/~willdana/August_Minicourse_UM-2.pdf"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a></td>
+<td>  </td>
+</tr>
+<tr id="abstract10" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em>
+See the PDF to the right.
+</p>
+</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<th>
+Statistical physics of neural networks
+</th>
+<td class="speaker">
+<a href="http://www-personal.umich.edu/~kailasas/">Sameer Kailasa</a>
+</td>
+<td>August 15 - August 19</td>
+<!-- <td>(M–F)</td> -->
+<td>1 - 2:30</td>
+<td>East Hall 2866 (MWF) / 4088 (TTh)</td>
+<td style="text-align: center;"><button id="toggleAbstract11">Show</button></td>
+<td style="text-align: center;"><!--<a href="http://www-personal.umich.edu/~willdana/RingelHallSlides.html"> <img src="minicourses2022_files/Adobe_PDF_file_icon_24x24.png" alt="PDF"> </a>--></td>
+<td>  </td>
+</tr>
+<tr id="abstract11" class="abstract">
+<td class="theAbstract" colspan="8">
+<p><em>Abstract.</em>
+This minicourse will survey several topics at the intersection of statistical physics and theoretical neuroscience, with a focus on highlighting contemporary works. I plan to discuss models of associative memory (e.g. the Hopfield model), techniques of statistical field theory and applications to random recurrent neural networks, and theories of excitation-inhibition balance in cortical networks. Prerequisites are limited to probability and willingness to tolerate clearly divergent integrals.
+</p>
+</td>
+</tr>
+</tbody>
+
+
+</table>
+<br>
+
+<p>The 
+<a href="http://www-personal.umich.edu/~malloryd/minicourses2021.html">2021</a>,
+<a href="http://www-personal.umich.edu/~malloryd/minicourses2020.html">2020</a>,
+<a href="http://www-personal.umich.edu/~malloryd/minicourses2019.html">2019</a>,
+<a href="http://www-personal.umich.edu/~malloryd/minicourses2018.html">2018</a>,
+<a href="http://www-personal.umich.edu/~takumim/minicourses2017.html">2017</a>,
+and
+<a href="http://www-personal.umich.edu/~takumim/minicourses2016.html">2016</a>
+schedules and abstracts are still available.</p>
+
+
+   <script type="text/javascript" src="minicourses2022_files/jquery-2.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $("#hideAbstracts").on("click", function(event) {
+          event.preventDefault();
+          $('.abstract').hide();
+          $("[id^=toggleAbstract]").text("Show");
+          $('#lastHeadRow').children().css("border-bottom","1pt solid black");
+        });
+        $("#showAbstracts").on("click", function(event) {
+          event.preventDefault();
+          $('.abstract').show();
+          $("[id^=toggleAbstract]").text("Hide");
+          $('#lastHeadRow').children().css("border-bottom","0");
+        });
+        $("[id^=toggleAbstract]").click(function() {
+          $('#abstract'+$(this).attr("id").slice(14)).toggle();
+          $('#abstract'+$(this).attr("id").slice(14)).is(":visible")?$(this).text("Hide"):$(this).text("Show");
+          if ($(this).attr("id").slice(14) == 19) {
+            $('#abstract'+$(this).attr("id").slice(14)).is(":visible")?$('#lastHeadRow').children().css("border-bottom","0"):$('#lastHeadRow').children().css("border-bottom","1pt solid black");
+          }
+        });
+      });
+    </script>
+
+
+</body></html>
