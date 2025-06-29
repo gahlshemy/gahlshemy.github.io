@@ -12,6 +12,7 @@ Beyond learning and doing math, I enjoy teaching math, playing soccer, reading, 
 Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 
 *Teaching*
+Instructor of record for
 * UM Math 115 (Calc I) (Fall 2023, Winter 2024)
 * UM Math 116 (Calc II) (Winter 2025)
 
