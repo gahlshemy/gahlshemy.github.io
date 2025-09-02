@@ -31,6 +31,7 @@ Sadie Lipman and I organized the 2025 Michigan summer minicourses.
 *Other*
 * [Modular principal series representation of GL2 over finite rings](https://gahlshemy.github.io/dec30modreps.pdf).
 * [Lattice models and puzzles for Dual Weak symmetric Grothendieck Polynomials](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_5__Puzzles___Ice.pdf) with E. Bullock, N. Caplinger, A. Chin, N. Davis, and C. Frechette.
+* [Notes on 
 
 *Talks*
 * UM Student Commutative Algebra: Progress in Big & Small Cohen-Macaulay Modules (Mar 2024)
