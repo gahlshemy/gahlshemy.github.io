@@ -33,8 +33,8 @@ Sadie Lipman and I organized the 2025 Michigan summer minicourses.
 * [Lattice models and puzzles for Dual Weak symmetric Grothendieck Polynomials](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_5__Puzzles___Ice.pdf) with E. Bullock, N. Caplinger, A. Chin, N. Davis, and C. Frechette.
 
 *Talks*
-* UM Student Commutative Algebra: Progress in Big & Small Cohen-Macaulay Modules (Mar 2024)
-* UM Student Commutative Algebra: Introduction to Group Cohomology (Oct 2024)
-* UM Student Dynamics/ Geometry/ Topology: Poincaré Duality Groups (Nov 2024)
-* UM Student Commutative Algebra: Cohen-Macaulay Simplicial Complexes (Apr 2025)
+* UM Student Commutative Algebra: Progress in Big & Small Cohen-Macaulay modules (Mar 2024)
+* UM Student Commutative Algebra: Introduction to group cohomology (Oct 2024)
+* UM Student Dynamics/ Geometry/ Topology: Poincaré duality groups (Nov 2024)
+* UM Student Commutative Algebra: Cohen-Macaulay simplicial complexes (Apr 2025)
 * UM Student Commutative Algebra: From K_0 to higher algebraic K-theory (Nov 2025)
