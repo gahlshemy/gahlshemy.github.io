@@ -37,3 +37,4 @@ Sadie Lipman and I organized the 2025 Michigan summer minicourses.
 * UM Student Commutative Algebra: Introduction to Group Cohomology (Oct 2024)
 * UM Student Dynamics/ Geometry/ Topology: Poincaré Duality Groups (Nov 2024)
 * UM Student Commutative Algebra: Cohen-Macaulay Simplicial Complexes (Apr 2025)
+* UM Student Commutative Algebra: From K_0 to higher algebraic K-theory (Nov 2025)
