@@ -23,7 +23,7 @@ Sadie Lipman and I organized the 2025 Michigan summer minicourses.
 
 *Expository*
 * An intro to [vanishing theorems in local cohomology](https://gahlshemy.github.io/GS_Math614_Project.pdf), written as a final project for UM Math 614 (Commutative Algebra), Fall 2023.
-* Notes on the [Künneth theorem].
+* Notes on the [Künneth theorem](https://gahlshemy.github.io/Roadmap for presentation.pdf), Summer 2024.
 
 *Papers* 
 * [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with E. Bullock, A. Kelley, V. Reiner, K. Ren, D. Shen, B. Sun, A. Tao, and Z. Zhang (Electronic Journal of Combinatorics). 
