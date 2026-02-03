@@ -4,7 +4,6 @@ I'm Gahl, a third year math PhD candidate at the University of Michigan. I previ
 
 I'm very grateful to be supported by an NSF Graduate Research Fellowship and a Rackham Merit Fellowship (Rackham Science Award). 
 
-<img src="https://gahlshemy.github.io/assets/images/racacon-presenting.jpg" alt="Presenting my Michigan Research" style="width: 37%">
 <img src="https://gahlshemy.github.io/assets/images/mich_math.jpeg" alt="Fun with my Michigan friends" style="width: 37%">
 
 Beyond learning and doing math, I enjoy teaching math, playing soccer, reading, skateboarding, skiing, hiking, dj'ing, and thrifting.
