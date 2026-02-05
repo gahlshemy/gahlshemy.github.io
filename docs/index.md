@@ -20,7 +20,7 @@ I am on the executive board of Michigan's [Association for Women in Math](https:
 
 Sadie Lipman and I organized the 2025 Michigan summer minicourses.
 
-*Papers* 
+*Undergraduate Papers* 
 * [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with E. Bullock, A. Kelley, V. Reiner, K. Ren, D. Shen, B. Sun, A. Tao, and Z. Zhang (Electronic Journal of Combinatorics). 
 * [On the Cauchy transform of the complex power function](https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2023/12/2023_8_FKS.pdf) with B. Faktor and M. Kuhn (Ball State Mathematics Exchange).
 
