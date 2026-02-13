@@ -37,4 +37,3 @@ Sadie Lipman and I organized the 2025 Michigan summer minicourses.
 * [Lattice models and puzzles for Dual Weak symmetric Grothendieck Polynomials](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_5__Puzzles___Ice.pdf) with E. Bullock, N. Caplinger, A. Chin, N. Davis, and C. Frechette.
 * An intro to [vanishing theorems in local cohomology](https://gahlshemy.github.io/GS_Math614_Project.pdf), written as a final project for UM Math 614 (Commutative Algebra), Fall 2023.
 * Notes on the [Künneth theorem](https://gahlshemy.github.io/Kunneth.pdf), Summer 2024.
-* [Odd symplectic groups](https://gahlshemy.github.io/Odd_symplectic_groups%20(4).pdf) (in progress).
