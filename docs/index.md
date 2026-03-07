@@ -11,8 +11,8 @@ Beyond learning and doing math, I enjoy teaching math, playing soccer, reading, 
 Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 
 *Teaching*
-* UM Math 115 (Calc I) (Fall 2023, Winter 2024)
 * UM Math 116 (Calc II) (Winter 2025)
+* UM Math 115 (Calc I) (Fall 2023, Winter 2024)
 
 *Activities*
 
@@ -25,12 +25,12 @@ Sadie Lipman and I organized the 2025 Michigan summer minicourses.
 * [On the Cauchy transform of the complex power function](https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2023/12/2023_8_FKS.pdf) with B. Faktor and M. Kuhn (Ball State Mathematics Exchange).
 
 *Talks*
-* UM Student Commutative Algebra: Progress in Big & Small Cohen-Macaulay modules (Mar 2024)
-* UM Student Commutative Algebra: Introduction to group cohomology (Oct 2024)
-* UM Student Dynamics/ Geometry/ Topology: Poincaré duality groups (Nov 2024)
-* UM Student Commutative Algebra: Cohen-Macaulay simplicial complexes (Apr 2025)
-* UM Student Commutative Algebra: [From K_0 to higher algebraic K-theory](https://gahlshemy.github.io/algebraic_K_theory.pdf) (Nov 2025, incomplete notes.)
 * UM Student Dynamics/ Geometry/ Topology: An introduction to operads (Nov 2025)
+* UM Student Commutative Algebra: [From K_0 to higher algebraic K-theory](https://gahlshemy.github.io/algebraic_K_theory.pdf) (Nov 2025, incomplete notes.)
+* UM Student Commutative Algebra: Cohen-Macaulay simplicial complexes (Apr 2025)
+* UM Student Dynamics/ Geometry/ Topology: Poincaré duality groups (Nov 2024)
+* UM Student Commutative Algebra: Introduction to group cohomology (Oct 2024)
+* UM Student Commutative Algebra: Progress in Big & Small Cohen-Macaulay modules (Mar 2024)
 
 *Other*
 * [Modular principal series representation of GL2 over finite rings](https://gahlshemy.github.io/dec30modreps.pdf).
