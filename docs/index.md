@@ -25,6 +25,7 @@ Sadie Lipman and I organized the 2025 Michigan summer minicourses.
 * [On the Cauchy transform of the complex power function](https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2023/12/2023_8_FKS.pdf) with B. Faktor and M. Kuhn (Ball State Mathematics Exchange).
 
 *Talks*
+* UM Student Dynamics/ Geometry/ Topology: [Configuration spaces & braid groups] (Mar 2026)
 * UM Student Dynamics/ Geometry/ Topology: An introduction to operads (Nov 2025)
 * UM Student Commutative Algebra: [From K_0 to higher algebraic K-theory](https://gahlshemy.github.io/algebraic_K_theory.pdf) (Nov 2025, incomplete notes.)
 * UM Student Commutative Algebra: Cohen-Macaulay simplicial complexes (Apr 2025)
