@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm currently a third year math PhD candidate at the University of Michigan. I previously earned a math B.S. from UCSB in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests include the cohomology of arithmetic groups, Steinberg modules, and general combinatorial topology/commutative algebra. My advisor is [Jenny Wilson](https://dept.math.lsa.umich.edu/~jchw/).
+I'm currently a third year math PhD candidate at the University of Michigan. I previously earned a math B.S. from UCSB in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests include the cohomology of arithmetic groups, Steinberg modules, and general combinatorial topology/ commutative algebra. My advisor is [Jenny Wilson](https://dept.math.lsa.umich.edu/~jchw/).
 
 I'm very grateful to be supported by an NSF Graduate Research Fellowship and a Rackham Merit Fellowship (Rackham Science Award). 
 
