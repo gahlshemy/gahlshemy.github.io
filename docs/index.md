@@ -9,6 +9,7 @@ I'm very grateful to be supported by an NSF Graduate Research Fellowship and a R
 Beyond learning and doing math, I enjoy teaching math, playing soccer, reading, skateboarding, skiing, hiking, dj'ing, and thrifting.
 
 Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
+**Office**: East Hall 4828
 
 *Teaching*
 * UM Math 116 (Calc II) (Winter 2025)
@@ -18,7 +19,7 @@ Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 
 I am on the executive board of Michigan's [Association for Women in Math](https://sites.google.com/umich.edu/awm/home?authuser=0), serve as a mentor and organizer for Michigan's [Directed Reading Program in Mathematics](https://sites.google.com/umich.edu/drp/home), and volunteer at [Super Saturdays](https://sites.lsa.umich.edu/math-corps/super-saturdays/)!
 
-Sadie Lipman and I organized the 2025 Michigan summer minicourses.
+[Sadie Lipman](https://sites.google.com/umich.edu/sadie-lipman/home) and I are organizing the 2026 Michigan summer graduate minicourses. Last year we organized the 2025 Michigan summer graduate minicourses.
 
 *Undergraduate papers* 
 * [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with E. Bullock, A. Kelley, V. Reiner, K. Ren, D. Shen, B. Sun, A. Tao, and Z. Zhang (Electronic Journal of Combinatorics). 
