@@ -26,7 +26,7 @@ I am on the executive board of Michigan's [Association for Women in Math](https:
 * [On the Cauchy transform of the complex power function](https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2023/12/2023_8_FKS.pdf) with B. Faktor and M. Kuhn (Ball State Mathematics Exchange).
 
 *Talks*
-* [Configuration Spaces Summer School 2026](https://websites.umich.edu/~jchw/SummerSchool2026/SummerSchool2026.html): Braid groups ([slides](https://gahlshemy.github.io/docs/BRAID GRPS-compressed.pdf))
+* [Configuration Spaces Summer School 2026](https://websites.umich.edu/~jchw/SummerSchool2026/SummerSchool2026.html): Braid groups ([slides](https://gahlshemy.github.io/docs/BRAID-GRPS-compressed.pdf))
 * UM Student Dynamics/ Geometry/ Topology: [Configuration spaces & braid groups](https://gahlshemy.github.io/braids&config_notes.pdf) (Mar 2026)
 * UM Student Dynamics/ Geometry/ Topology: An introduction to operads (Nov 2025)
 * UM Student Commutative Algebra: [From K_0 to higher algebraic K-theory](https://gahlshemy.github.io/algebraic_K_theory.pdf) (Nov 2025, incomplete notes.)
