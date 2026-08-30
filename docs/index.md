@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a third year math PhD candidate at the University of Michigan. I previously earned a math B.S. from UCSB in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests include the cohomology of arithmetic groups, Steinberg modules, and homological stability. My advisor is [Jenny Wilson](https://dept.math.lsa.umich.edu/~jchw/).
+I'm a fourth year math PhD candidate at the University of Michigan. I previously earned a math B.S. from UCSB in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests include the cohomology of arithmetic groups, Steinberg modules, and homological stability. I'm advised by [Jenny Wilson](https://dept.math.lsa.umich.edu/~jchw/).
 
 I'm very grateful to be supported by an NSF Graduate Research Fellowship and a Rackham Merit Fellowship (Rackham Science Award). 
 
@@ -21,10 +21,6 @@ I am on the executive board of Michigan's [Association for Women in Math](https:
 
 [Sadie Lipman](https://sites.google.com/umich.edu/sadie-lipman/home) and I are organizing the 2026 Michigan summer graduate minicourses. Last year we organized the 2025 Michigan summer graduate minicourses.
 
-*Undergraduate papers* 
-* [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with E. Bullock, A. Kelley, V. Reiner, K. Ren, D. Shen, B. Sun, A. Tao, and Z. Zhang (Electronic Journal of Combinatorics). 
-* [On the Cauchy transform of the complex power function](https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2023/12/2023_8_FKS.pdf) with B. Faktor and M. Kuhn (Ball State Mathematics Exchange).
-
 *Talks*
 * [Configuration Spaces Summer School 2026](https://websites.umich.edu/~jchw/SummerSchool2026/SummerSchool2026.html): Braid groups ([slides](https://gahlshemy.github.io/braidgrps-compressed.pdf))
 * UM Student Dynamics/ Geometry/ Topology: [Configuration spaces & braid groups](https://gahlshemy.github.io/braids&config_notes.pdf) (Mar 2026)
@@ -34,6 +30,11 @@ I am on the executive board of Michigan's [Association for Women in Math](https:
 * UM Student Dynamics/ Geometry/ Topology: Poincaré duality groups (Nov 2024)
 * UM Student Commutative Algebra: Introduction to group cohomology (Oct 2024)
 * UM Student Commutative Algebra: Progress in Big & Small Cohen-Macaulay modules (Mar 2024)
+
+*Undergraduate papers* 
+* [Topology of augmented bergman complexes](https://arxiv.org/abs/2108.13394) with E. Bullock, A. Kelley, V. Reiner, K. Ren, D. Shen, B. Sun, A. Tao, and Z. Zhang (Electronic Journal of Combinatorics). 
+* [On the Cauchy transform of the complex power function](https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2023/12/2023_8_FKS.pdf) with B. Faktor and M. Kuhn (Ball State Mathematics Exchange).
+
 
 *Other*
 * [Modular principal series representation of GL2 over finite rings](https://gahlshemy.github.io/dec30modreps.pdf).
