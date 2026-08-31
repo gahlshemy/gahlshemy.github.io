@@ -19,7 +19,7 @@ Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
 
 I am on the executive board of Michigan's [Association for Women in Math](https://sites.google.com/umich.edu/awm/home?authuser=0), serve as a mentor and organizer for Michigan's [Directed Reading Program in Mathematics](https://sites.google.com/umich.edu/drp/home), and volunteer at [Super Saturdays](https://sites.lsa.umich.edu/math-corps/super-saturdays/)!
 
-[Sadie Lipman](https://sites.google.com/umich.edu/sadie-lipman/home) and I are organizing the 2026 Michigan summer graduate minicourses. Last year we organized the 2025 Michigan summer graduate minicourses.
+[Sadie Lipman](https://sites.google.com/umich.edu/sadie-lipman/home) and I are organizing the 2026 Michigan summer graduate minicourses. Last summer we organized the 2025 minicourses.
 
 *Talks*
 * [Configuration Spaces Summer School 2026](https://websites.umich.edu/~jchw/SummerSchool2026/SummerSchool2026.html): Braid groups ([slides](https://gahlshemy.github.io/braidgrps-compressed.pdf))
