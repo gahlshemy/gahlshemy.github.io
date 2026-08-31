@@ -9,7 +9,7 @@ I'm very grateful to be supported by an NSF Graduate Research Fellowship and a R
 Beyond learning and doing math, I enjoy teaching math, playing soccer, reading, skateboarding, skiing, hiking, dj'ing, and thrifting.
 
 Do not hesitate to [reach out](mailto:gshemy@umich.edu)!
-**Office**: East Hall 4828
+Office: East Hall 4828
 
 *Teaching*
 * UM Math 116 (Calc II) (Winter 2025)
