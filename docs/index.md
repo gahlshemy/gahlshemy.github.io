@@ -10,10 +10,6 @@
   <a href="/activities/">Activities</a>
 </nav>
 
----
-layout: default
----
-
 ## Hello!
 
 I'm a fourth year math PhD candidate at the University of Michigan. I previously earned a math B.S. from UCSB in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests include the cohomology of arithmetic groups & mapping class groups, Steinberg modules, and homological stability. I'm advised by [Jenny Wilson](https://dept.math.lsa.umich.edu/~jchw/).
