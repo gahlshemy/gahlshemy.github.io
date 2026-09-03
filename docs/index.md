@@ -1,3 +1,15 @@
+<nav style="
+  display: flex;
+  gap: 24px;
+  padding: 10px 0;
+  margin-bottom: 25px;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 16px;
+">
+  <a href="/">Home</a>
+  <a href="/activities/">Activities</a>
+</nav>
+
 ## Hello!
 
 I'm a fourth year math PhD candidate at the University of Michigan. I previously earned a math B.S. from UCSB in the [College of Creative Studies](https://ccs.ucsb.edu/). My mathematical interests include the cohomology of arithmetic groups & mapping class groups, Steinberg modules, and homological stability. I'm advised by [Jenny Wilson](https://dept.math.lsa.umich.edu/~jchw/).
