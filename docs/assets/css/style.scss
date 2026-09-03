@@ -1,1 +1,27 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+.site-nav {
+  margin: 15px 0 18px 0;
+  font-size: 15px;
+}
+
+.site-nav a {
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.site-nav .active {
+  font-weight: bold;
+  color: #222;
+}
+
+.nav-divider {
+  margin: 0 8px;
+  color: #999;
+}
