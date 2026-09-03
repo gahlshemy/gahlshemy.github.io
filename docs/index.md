@@ -1,14 +1,9 @@
-<nav style="
-  display: flex;
-  gap: 24px;
-  padding: 10px 0;
-  margin-bottom: 25px;
-  border-bottom: 1px solid #e5e5e5;
-  font-size: 16px;
-">
-  <a href="/">Home</a>
-  <a href="/activities/">Activities</a>
-</nav>
+---
+layout: default
+title: Home
+permalink: /
+---
+
 
 ## Hello!
 
