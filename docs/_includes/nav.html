@@ -6,15 +6,16 @@
 
   <span class="nav-divider">|</span>
 
-  <a href="{{ '/activities/' | relative_url }}"
-     {% if page.url contains "/activities" %}class="active"{% endif %}>
-    Activities
-  </a>
-
-  <span class="nav-divider">|</span>
-
   <a href="{{ '/talks_writing/' | relative_url }}"
      {% if page.url contains "/talks_writing" %}class="active"{% endif %}>
     Talks & Writing
   </a>
+
+  <span class="nav-divider">|</span>
+  
+  <a href="{{ '/activities/' | relative_url }}"
+     {% if page.url contains "/activities" %}class="active"{% endif %}>
+    Activities
+  </a>
+ 
 </nav>
